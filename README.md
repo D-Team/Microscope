@@ -2,6 +2,7 @@ Microscope
 =============
 
 ## Meteor's site & books
+
 * [Q42 Meteor Learning](https://github.com/Q42/Meteor-Learning)
 * [Q42 How to deploy Meteor on Google Compute Engenie](http://q42.com/blog/post/98968122208/how-to-deploy-meteor-on-google-compute-engine)
 * [Amazon Book "Getting Started with Meteor.js JavaScript Framework"](http://www.amazon.com/Getting-Started-Meteor-js-JavaScript-Framework/dp/1782160825)
