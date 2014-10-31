@@ -1,5 +1,10 @@
 #Microscope
 
+##Meteor's site
+[Q42 Meteor Learning](https://github.com/Q42/Meteor-Learning)
+[Q42 How to deploy Meteor on Google Compute Engenie](http://q42.com/blog/post/98968122208/how-to-deploy-meteor-on-google-compute-engine)
+
+
 ##How to install Meteor and Meteorite on Ubuntu
 ###Update and upgrade your Ubuntu
 Depending on how up-to-date your image is, this may take a while.
